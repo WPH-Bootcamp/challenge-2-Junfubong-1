@@ -355,10 +355,14 @@ p strong
 
 /*section contact */
 .contact-section {
-   background-color: var(--bg-color);
+    background-color: var(--bg-color);
     color: #fff;
     padding: 100px 5%;
     text-align: center; 
+}
+
+.contact-header {
+    margin-bottom: 60px;
 }
 
 .contact-header h2 {
